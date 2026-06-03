@@ -7,7 +7,7 @@ const Hero = () => {
       />
       <div className="mx-auto py-10 text-center">
         <p className="md:text-2xl">
-          To learn more about how Mevaco is improving the bottom line for multifamily owners and its general business practices, <br /> email: {" "}
+          To learn more about how Etoric is improving the bottom line for multifamily owners and its general business practices, <br /> email: {" "}
           <a
             href={`mailto:info@etoric.llc`}
             className="underline text-[#186F60] font-bold"

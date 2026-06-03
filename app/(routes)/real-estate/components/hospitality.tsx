@@ -5,7 +5,7 @@ const Hospitality = () => {
     <section className="py-8 relative">
       <div className="container h-[500px] bg-[#FFFD60] mx-auto flex flex-col md:flex-row items-center gap-12 px-6 relative z-10 overflow-visible">
         {/* Left: Text */}
-        <div className="md:w-1/2 px-20 py-10">
+        <div className="md:w-1/2 md:px-20 py-10">
           <h2 className="text-3xl md:text-5xl font-semibold mb-6">
             Innovative hospitality services.
           </h2>

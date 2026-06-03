@@ -638,7 +638,7 @@ export const cities: City[] = [
         ],
         description:
           "This charming multi-family Miami Beach home blends modern convenience with classic style. The main residence offers three spacious bedrooms, 2.5 baths, a cozy fireplace, and a bright open floor plan with exotic tile flooring and large impact windows. The separate cottage is fully self-contained, ideal for guests or rental income, with its own kitchen and bathroom. The property is steps from shopping, parks, and transportation in the sought-after Biarritz Drive neighborhood.",
-        contactEmail: `info@lease.lease`,
+        contactEmail: `info@etoric.llc`,
         contactPhone: "+1 (480) 909-8985",
       },
       {
@@ -671,7 +671,7 @@ export const cities: City[] = [
         ],
         description:
           "Nestled in the coveted Isle of Normandy neighborhood of Miami Beach, this 1938 gem combines tropical charm with modern elegance. The sunlit open-concept home features four bedrooms, three bathrooms, vaulted ceilings, a kitchen island, and clear impact glass windows. Enjoy resort-style living with a private pool surrounded by swaying palms, a deck and patio perfect for entertaining, and a garden oasis. Ideal for those seeking a serene retreat just minutes from Miami’s vibrant city center and pristine beaches.",
-        contactEmail: `info@lease.lease`,
+        contactEmail: `info@etoric.llc`,
         contactPhone: "+1 (480) 909-8985",
       },
     ],
@@ -711,7 +711,7 @@ export const cities: City[] = [
         ],
         description:
           "Located in the acclaimed Alora Nashville community, this 2024 residence offers a fully operating short-term rental with lifestyle and investment value. The home features four bedrooms, five bathrooms, a private rooftop with covered terrace and firepit, sweeping city views, and high-end finishes. Professionally curated interiors ensure a turnkey experience, while its prime location near Broadway, Amazon, and Oracle East Bank provides both convenience and exclusivity.",
-        contactEmail: `info@lease.lease`,
+        contactEmail: `info@etoric.llc`,
         contactPhone: "+1 (480) 909-8985",
       },
       {
@@ -783,7 +783,7 @@ export const cities: City[] = [
         ],
         description:
           "Located in Northern Liberties’ exclusive SEVENTEEN gated townhome enclave, this 2016 townhouse offers 3,200 sqft of living space with three bedrooms and four bathrooms. The home features a modern, striking façade, finished basement, and two-car garage. Interior highlights include walk-in closets, recessed lighting, upgraded countertops, kitchen island, and a cozy fireplace, combining style, comfort, and urban convenience.",
-        contactEmail: `info@lease.lease`,
+        contactEmail: `info@etoric.llc`,
         contactPhone: "+1 (480) 909-8985",
       },
       {
@@ -815,7 +815,7 @@ export const cities: City[] = [
         ],
         description:
           "Introducing Cypress Commons in Washington Square West, a luxury collection of new-construction townhomes. Built in 2025, this 4,502 sqft home features four bedrooms, six bathrooms, an attached two-car garage, private rooftop deck, open-concept living areas, chef’s kitchen with quartzite countertops, and smart-home features. Ideal for modern urban living with proximity to historic landmarks, dining, and entertainment.",
-        contactEmail: `info@lease.lease`,
+        contactEmail: `info@etoric.llc`,
         contactPhone: "+1 (480) 909-8985",
       },
     ],

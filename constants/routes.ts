@@ -1,0 +1,20 @@
+export const routes = {
+  HOME: "/",
+  EXPERIENCE: "/experience",
+  REAL_ESTATE: "/real-estate",
+  CONTACT: "/contact",
+  LOCATION: "location",
+  BOOK_STAY: "/book-stay",
+  EXTENDED_STAY: "/book-extended-stay",
+  APARTMENT: "/lease-apartment",
+  SIGNUP: "/auth/signup",
+  LOGIN: "/auth/login",
+  VERIFY: "/auth/verify",
+  RESET: "/auth/reset",
+  DASHBOARD: "/dashboard",
+  FORGOT: "/auth/forgot",
+  SETTINGS: "/settings",
+  RESIDENCIES: "/residences",
+  APPLICATIONS: "/applications",
+  FAVOURITES: "/favourites"
+};

@@ -63,7 +63,7 @@ export const cities: City[] = [
         description:
           "Discover the perfect blend of 1940s craftsmanship and modern versatility in the heart of Alameda’s coveted East End. This spacious 3 bedroom, 2.25 bathroom home offers 1,851 square feet of living space on a 4,879 square foot lot, capturing the essence of “Old Alameda” while providing the flexibility today’s buyers demand. Step across original gleaming wood floors into a residence rich with period details, from inviting living areas to sun-drenched bedrooms that create a warm, timeless foundation for any personal style. ",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -96,7 +96,7 @@ export const cities: City[] = [
         description:
           "Rare 2.5% assumable rate mortgage opportunity* Discover elevated living in this upgraded 4 bed, 4 bath condo built in 2022. Street facing with rare privacy, no front neighbors, open park views, and abundant natural light. The flexible multilevel layout begins with a first floor bedroom and ensuite bath featuring soaring 14 foot ceilings, ideal for guests, a home office, or multigenerational living",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -136,7 +136,7 @@ export const cities: City[] = [
         description:
           "Gorgeous modern Craftsman in the heart of Edgewood-just steps from the new Trolley Line Trail connecting directly to the Atlanta BeltLine! Ideally located minutes from the shops and restaurants of Pullman Yards and the Kirkwood Business District, as well as Coan Park and the MARTA station. This home features a thoughtful design with a welcoming front porch, open floor plan, hardwood floors, and custom blinds throughout. The gourmet kitchen is complete with custom cabinetry, quartz countertops, stainless steel appliances with gas cooking, a large island, and a butler's pantry with butcher-block countertop and adjoining mudroom. The sun-filled living room boasts a wall of windows overlooking the backyard, a beamed ceiling, and a gas-log fireplace.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -168,7 +168,7 @@ export const cities: City[] = [
         description:
           "Celesta is a brand new community by David Weekley Homes and features 80 detached townhouse style homes with 2-car garages. All homes have 3 levels, with a guest bedroom on the garage level and either 2 or 3 more bedrooms on the top floor. This home is our Brexton plan and will have 4 bedrooms and 3.5 bathrooms. Built with a focus on spacious living areas and closets, these detached craftsman style homes will ensure a quiet and comfortable place to come home to after a busy day at the office or a night out on the town. These new construction homes are being built using EnergySaver Home techniques to minimize energy consumption and reduce environmental impact. Features includes 2x6 exterior framed walls with 50% more insulation than a 2x4 wall, and tankless water heaters. Come enjoy high-end living and incredible convenience for the right price. Celesta is just minutes from Downtowns Decatur, Avondale Estates, and Toco Hills and is surrounded by endless shopping and restaurants. In Addition and coming soon, just 1 mile down the road will be the new mixed-use shopping destination called Lulah Hills.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -208,7 +208,7 @@ export const cities: City[] = [
         description:
           "Introducing a breathtaking estate by visionary architect Patrick Ousey of FAB Architecture- an inspired one-story contemporary residence that redefines refined living in central Austin's most coveted neighborhood, Tarrytown, zoned to & steps away from the highly rated Casis Elementary (10/10 on Greatschools). Set on a rare 13,037 sq.ft. lot, this architectural gem seamlessly blends warm modernism with functional elegance, delivering a private sanctuary. Encompassing approximately 4,665 sqft, the home unfolds with curated intention every detail tailored for elevated everyday living.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -240,7 +240,7 @@ export const cities: City[] = [
         description:
           "This newly completed 4,015-square-foot luxury residence in Northwest Hills is move-in ready and thoughtfully designed for elevated living. The main level features an exceptionally private and expansive primary suite, offering a true retreat with generous proportions and refined finishes. A secondary bedroom on the main floor, complete with a full bath, provides ideal flexibility for guest accommodations or a sophisticated home office. Soaring 22-foot ceilings lined with dramatic walls of windows flood the home with extraordinary natural light, creating an open and airy atmosphere rarely found in residential construction. ",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -280,7 +280,7 @@ export const cities: City[] = [
         description:
           "Exceptionally well-maintained 2-flat with a garden-level in-law apartment situated on a tree-lined street in a prime location. This building offers endless possibilities as a terrific investment property or a home for an owner-occupant. The wide lot creates large units that blend vintage details with beautiful updates. Both units are flooded with natural light and showcase hardwood floors, elegant original woodwork, decorative brick fireplaces, updated baths, and expansive hallways. Each unit has 3 bedrooms plus enclosed porches, making them perfect for the 'work from home' buyer. Both apartments have large formal dining rooms and beautifully renovated kitchens with 42-inch cabinets, granite counters, custom backsplash, stainless steel appliances, and a pantry nook.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -312,7 +312,7 @@ export const cities: City[] = [
         description:
           "Nestled on one of Lincoln Park's most picturesque, tree-lined blocks, directly across from the storybook charm of Oz Park, 2208 N Burling Street is available for the first time in more than thirty years. This four-bedroom, two-bath townhome blends the character of its classic Chicago setting with thoughtful modern updates, creating a home that feels both timeless and refreshingly current.    Inside, newly installed hardwood floors lead you through an open, inviting layout where the living room, dining area, and kitchen flow seamlessly together. A wood-burning fireplace anchors the space, adding warmth and comfort, while sliding glass doors open to a lush private garden patio-a rare urban retreat perfect for relaxing, grilling, or dining al fresco beneath the trees. The kitchen has been remodeled with sleek new cabinetry, stone counters and backsplash, modern appliances, and ample counter space designed for both everyday living and entertaining.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -352,7 +352,7 @@ export const cities: City[] = [
         description:
           "You'll love this spacious one-owner 5-bedroom, 5-bathroom home located on quiet Mt. Carmel Circle in Denver’s highly desirable Verdict Ridge community. Perfectly set on a peaceful, wooded lot, this residence offers comfort, privacy, and room to spread out—all while being just minutes from Lake Norman, shopping, dining, and major commuter routes into Charlotte.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -384,7 +384,7 @@ export const cities: City[] = [
         description:
           "Stop dreaming and start living the ultimate Sailview lifestyle in this stunning 5-bedroom, full-brick estate, which has been meticulously updated and is ready for its next chapter; and yes, it comes with its very own DEEDED BOAT SLIP (6-A Slip 58)! From the moment you enter, you’ll notice the sophisticated details that set this home apart, including elegant formal living and dining rooms with tray ceilings, flowing seamlessly into a light-filled family room with a fireplace and a remodeled chef’s kitchen that is truly a showstopper. Upstairs, discover five generous bedrooms, including a primary suite that feels like a five-star spa with a deep-soak jacuzzi tub, oversized walk-in shower, and double vanities.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -424,7 +424,7 @@ export const cities: City[] = [
         description:
           "Andares Homes brings a modern Duplex to Third Ward. This beautiful investment stands out with its sleek and modern finishes. The home offers a striking exterior, complemented by oversized windows, allowing for plenty of natural light to flow through. Inside, an open-concept living and kitchen space flows seamlessly, with thoughtful details such as gold hardware, luxury fixtures, and a clay farm sink. Step into the serene primary room, complete with a custom-designed suite featuring double vanities, a frameless glass shower, and a freestanding soaking tub for relaxation. Every detail has been meticulously crafted, from the sleek imported tiles to the designer lighting, giving the home a truly elevated feel. Located minutes from downtown Houston, this home provides the perfect combination of luxury and location, making it a rare find in the current market.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -455,7 +455,7 @@ export const cities: City[] = [
         description:
           "Stunning residence nestled on a quiet cul-de-sac in Memorial, featuring high-end finishes throughout. The open-concept layout showcases soaring ceilings, herringbone wood floors, and abundant natural light. The gourmet kitchen is equipped with custom cabinetry, stainless steel appliances, and a spacious island—ideal for gatherings. The luxurious primary suite offers a spa-like bath and an oversized fashionista closet. A secondary bedroom with full bath is located downstairs, perfect for guests. Step outside to your private outdoor oasis with a covered kitchen, heated pool, and multiple lounge areas—ideal for effortless entertaining. Notable upgrades include automatic blinds, an in-home water purifier, new ACs, new pool equipment and a full sprinkler system. Prime location just minutes from I-10, Beltway 8, and Westpark Tollway, with close proximity to CityCentre, Memorial City Mall, and premier dining and shopping.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -495,7 +495,7 @@ export const cities: City[] = [
         description:
           "Fully remodeled 5-bedroom, 3-bath home on a rare 22,000+ sq ft cul-de-sac lot with no HOA and horse zoning, ideal for out-of-state buyers relocating to Las Vegas or locals seeking land and RV access. Located near Allegiant Stadium with easy freeway access. Interior features include luxury laminate flooring, 5” baseboards, decorative ceilings, and custom stone accents. The upgraded kitchen offers quartz countertops, new cabinetry, stainless steel appliances, and a canopy range hood. The main level includes a bedroom, full bath, and den, ideal for guests or multi-gen living. Bathrooms feature modern tile, sleek vanities, smart toilets, and glass showers.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -527,7 +527,7 @@ export const cities: City[] = [
         description:
           "This stunning single-story custom home, built in 2017, sits on an expansive ¾-acre lot and offers the perfect blend of luxury, space, and functionality. Featuring 4 spacious bedrooms, 3 well-appointed bathrooms, and a dedicated den, the open layout is ideal for both everyday living and entertaining. The heart of the home showcases granite countertops, abundant cabinetry, and tile flooring throughout for a clean, modern look and easy maintenance. A 4-car garage provides ample room for vehicles, storage, or hobbies. Step outside to your private oasis with a sparkling pool, massive backyard, and a fully equipped outdoor kitchen—perfect for hosting gatherings or enjoying quiet evenings.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -567,7 +567,7 @@ export const cities: City[] = [
         description:
           "Located in the exclusive gated community of Ponte Vista, this luxury estate model home offers unobstructed harbor and bridge views with premium upgrades throughout. Built in 2020, the residence features 5 bedrooms and 5 bathrooms across 3,527 square feet of thoughtfully designed living space. The open-concept layout showcases hardwood flooring, floor-to-ceiling soft-close cabinetry, quartz countertops, and a chef’s kitchen equipped with a 6-burner stove, double ovens, and high-end appliances. Step outside to a beautifully landscaped backyard with a heated in-ground pool, spa, fire pit, and BBQ area—perfect for entertaining. Additional highlights include a 16-panel owned solar system, smart home technology, and access to resort-style HOA amenities including a fitness center, dog park, trails, and recreation areas.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -599,7 +599,7 @@ export const cities: City[] = [
         description:
           "This beautifully maintained tri-level Porter Ranch home offers 4 spacious bedrooms and 3 bathrooms, with one bedroom conveniently located on the main level—ideal for guests or a home office. The inviting living room features soaring ceilings and a cozy fireplace, creating the perfect atmosphere for relaxing or entertaining. The light-filled kitchen includes granite countertops, a newer Sub-Zero refrigerator/freezer, double ovens, a large pantry, and a skylight that brings in abundant natural light. Step outside to your private backyard retreat complete with a sparkling in-ground pool, patio space for entertaining, and lush landscaping. With a newer roof, refreshed exterior paint, and a prime location near top-rated schools, shopping, dining, and hiking trails, this move-in-ready home offers comfort, convenience, and classic California living.",
         contactEmail: `info@info.lease`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -639,7 +639,7 @@ export const cities: City[] = [
         description:
           "This charming multi-family Miami Beach home blends modern convenience with classic style. The main residence offers three spacious bedrooms, 2.5 baths, a cozy fireplace, and a bright open floor plan with exotic tile flooring and large impact windows. The separate cottage is fully self-contained, ideal for guests or rental income, with its own kitchen and bathroom. The property is steps from shopping, parks, and transportation in the sought-after Biarritz Drive neighborhood.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -672,7 +672,7 @@ export const cities: City[] = [
         description:
           "Nestled in the coveted Isle of Normandy neighborhood of Miami Beach, this 1938 gem combines tropical charm with modern elegance. The sunlit open-concept home features four bedrooms, three bathrooms, vaulted ceilings, a kitchen island, and clear impact glass windows. Enjoy resort-style living with a private pool surrounded by swaying palms, a deck and patio perfect for entertaining, and a garden oasis. Ideal for those seeking a serene retreat just minutes from Miami’s vibrant city center and pristine beaches.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -712,7 +712,7 @@ export const cities: City[] = [
         description:
           "Located in the acclaimed Alora Nashville community, this 2024 residence offers a fully operating short-term rental with lifestyle and investment value. The home features four bedrooms, five bathrooms, a private rooftop with covered terrace and firepit, sweeping city views, and high-end finishes. Professionally curated interiors ensure a turnkey experience, while its prime location near Broadway, Amazon, and Oracle East Bank provides both convenience and exclusivity.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -744,7 +744,7 @@ export const cities: City[] = [
         description:
           "This 2016 Hermitage home blends luxury design and everyday functionality. Featuring four bedrooms, four bathrooms, a main-level primary suite, and a bonus room, the property is ideal for family living or entertaining. The backyard offers a deck, stone patio, and firepit, while community amenities include a pool, park, and playground. Thoughtful craftsmanship throughout, including coffered ceilings and a double-sided fireplace, ensures a balance of comfort and style in a sought-after location.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -784,7 +784,7 @@ export const cities: City[] = [
         description:
           "Located in Northern Liberties’ exclusive SEVENTEEN gated townhome enclave, this 2016 townhouse offers 3,200 sqft of living space with three bedrooms and four bathrooms. The home features a modern, striking façade, finished basement, and two-car garage. Interior highlights include walk-in closets, recessed lighting, upgraded countertops, kitchen island, and a cozy fireplace, combining style, comfort, and urban convenience.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -816,7 +816,7 @@ export const cities: City[] = [
         description:
           "Introducing Cypress Commons in Washington Square West, a luxury collection of new-construction townhomes. Built in 2025, this 4,502 sqft home features four bedrooms, six bathrooms, an attached two-car garage, private rooftop deck, open-concept living areas, chef’s kitchen with quartzite countertops, and smart-home features. Ideal for modern urban living with proximity to historic landmarks, dining, and entertainment.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -856,7 +856,7 @@ export const cities: City[] = [
         description:
           "Income-producing four-unit quadruplex in Phoenixville Borough featuring two expansive four-bedroom, two-level units, one three-bedroom street-level unit, and one garden-style efficiency apartment. Each unit is separately metered and leased month-to-month. Excellent location near Phoenixville’s vibrant restaurants, breweries, and cultural attractions, with easy access to Valley Forge National Park and King of Prussia Mall. A solid investment opportunity in a desirable rental market.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -888,7 +888,7 @@ export const cities: City[] = [
         description:
           "The Cambridge Plan at Phoenixville Heights is a new 3-bedroom, 4-bath townhouse with 1,989 sqft of livable space. Features include a recreation room on the first floor, open-concept main living areas with modern kitchen and dining, balcony and deck for seamless indoor-outdoor living, and a private owner’s suite on the top floor. This new-construction home offers optimal layout, privacy, and a two-car garage, all in a thriving Phoenixville community near downtown amenities.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -930,7 +930,7 @@ export const cities: City[] = [
         description:
           "Stunning waterfront townhouse with four floors of luxurious living, private end unit for maximum privacy, and breathtaking views of the water and city skyline. Features include open-concept living, centrally built-in speaker system, zone-specific heating and cooling, granite kitchen with modern appliances and wine fridge, gorgeous tiled bathrooms, elevator access, and newer decks. Located along the Three Rivers Heritage Trail with community amenities and easy access to downtown Pittsburgh attractions.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -963,7 +963,7 @@ export const cities: City[] = [
         description:
           "Beautifully maintained 3-bedroom, 2-bath ranch in North Hills Estates. Features include hardwood floors, trimline custom windows, large laundry room, workshop in garage, fruit cellar, gas fireplace, and covered back porch. Originally built in 1952, this home blends classic charm with modern upgrades. Located in a family-friendly community with year-round activities and parks nearby.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -1006,7 +1006,7 @@ export const cities: City[] = [
         description:
           "Landmark architectural masterpiece in Portland Heights designed by Robert Thompson of TVA Architects. This NW Contemporary residence offers serene, sunlit spaces with multiple balconies, bonus areas, luxurious primary suite with walk-in closet and sauna, modern kitchen with built-in appliances, two fireplaces, and a finished daylight basement. Nestled on a private, wooded 0.25-acre lot while minutes from downtown Portland, OHSU, and Council Crest Park.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -1040,7 +1040,7 @@ export const cities: City[] = [
         description:
           "Rare American Plaza Towers condo with sweeping panoramic views of the Willamette River and iconic peaks. East-facing living spaces capture morning light, while west-facing bedrooms enjoy stunning sunsets. Features include gourmet kitchen with built-in appliances, granite countertops, balconies, electric fireplaces, high ceilings, and spacious suites. HOA amenities include concierge, gym, pool, spa, and maintenance services.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -1084,7 +1084,7 @@ export const cities: City[] = [
         description:
           "Experience tropical luxury in this stunning Westwood home rebuilt in 2008. Open-concept living with vaulted ceilings, gourmet kitchen, cozy breakfast nook, and versatile main-level bedroom. The grand primary suite and three additional bedrooms upstairs offer comfort and privacy. Entertainer’s backyard features pergola, hardscaping, and multi-tiered pond. Nestled in the desirable Rancho Bernardo community with access to Westwood Club amenities and top-rated Poway Unified School District.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "2",
@@ -1117,7 +1117,7 @@ export const cities: City[] = [
         description:
           "New co-ownership opportunity in La Jolla Shores with this professionally managed Pacaso home. Remodeled with clean lines, expansive glass, and indoor-outdoor living spaces. Features chef-ready kitchen, glowing fireplace, primary suite with fireplace, balconies with ocean views, poolside terrace, and turnkey ownership for luxury seaside living. Two-car attached garage, central air, and high-end finishes complete the package.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -1157,7 +1157,7 @@ export const cities: City[] = [
         description:
           "Fully detached Central Sunset residence offering multi-residence living and strong upside potential. Owner’s unit features 2 BD/2 BA with ocean views and comes vacant, along with a 2-car garage. Lower unit 1551-A also 2 BD/2 BA and vacant. Front unit tenant-occupied for income. Ideal for multi-generational living, owner-occupancy with rental income, or leasing all units. Classic 1924 property on 3,600 sq ft lot with 3,462 sq ft living space. Prime location near Golden Gate Park, 16th Avenue Mosaic Stairway, Ocean Beach, and local amenities.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "sf-2",
@@ -1189,7 +1189,7 @@ export const cities: City[] = [
         description:
           "1927 Spanish Mediterranean Doelger-built home in Central Sunset. Main living level features formal entry, living room with vaulted ceilings, wood burning fireplace, dining room, updated kitchen with breakfast area, and two rear bedrooms with split bath. Garage level includes legal family room, bath, tandem 2-car garage, and laundry area. Perfect first-time market listing after 55 years. Recent interior/exterior paint, refinished hardwood floors, and staged for viewing. Prime location near shopping, dining, and transit.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -1230,7 +1230,7 @@ export const cities: City[] = [
         description:
           "Stunning single-level home with breathtaking mountain views, private backyard oasis, and sparkling pool/spa. Perfect for entertaining with open beam ceilings, hardwood floors, outdoor kitchen, and landscaped entry courtyard. Cozy family room with wood-burning fireplace and spacious master suite leading to pool. Impeccably maintained, move-in ready. 2-car garage with extra parking.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "jose-2",
@@ -1263,7 +1263,7 @@ export const cities: City[] = [
         description:
           "Contemporary 4-bedroom, 2.5-bath home tucked away on a quiet court near Santa Teresa Hills. Spacious 2,386 sq ft with high ceilings, granite kitchen, and two fireplaces. Backyard with pergola, fruit trees, and mountain views. Primary suite with French doors and en suite bath. Excellent storage with 3-car garage. Modern updates include new laminate flooring, carpet, and dual-pane windows. Conveniently located near highways, shopping, and Santa Teresa High School.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
@@ -1304,7 +1304,7 @@ export const cities: City[] = [
         description:
           "Trio, an architecturally refined collection of three townhomes in Santa Monica's Sunset Park. Open-plan living spaces with natural light, custom kitchens, and three bedroom suites. Primary suite includes spa-inspired bath and walk-in shower. Flexible office/studio space and private attached garage. Contemporary design, moments from Santa Monica dining, boutiques, and beach.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
       {
         id: "monica-2",
@@ -1337,7 +1337,7 @@ export const cities: City[] = [
         description:
           "Tri-level condo living like a single-family home, 23 blocks from the beach. Multiple bonus rooms and flex space for office or sleeping. Primary suite with soaring ceilings, double vanity, and private rooftop patio. Entry-level atrium patio, living/dining areas, wet bar. Attached 2-car garage. Modern Santa Monica lifestyle with convenient location near shopping, dining, schools, and the iconic beach.",
         contactEmail: `info@etoric.llc`,
-        contactPhone: "+1 (480) 909-8985",
+        contactPhone: "+1 (915) 999-8349",
       },
     ],
   },
